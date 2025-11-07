@@ -40,3 +40,4 @@ fun FormIsian(
                 colors = TopAppBarDefaults.mediumTopAppBarColors(
                     containerColor = colorResource(id = R.color.pink_pastel))
             )}
+    ){ isiRuang ->
