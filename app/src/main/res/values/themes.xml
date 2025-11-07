@@ -2,4 +2,8 @@
 <resources>
 
     <style name="Theme.PRAK6" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.PRAK7PAM" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.PRAK_PAM7" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>

@@ -1,4 +1,5 @@
-import android.service.autofill.OnClickAction
+package com.example.prak6.view
+
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer

@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "PRAK 6"
 include(":app")
+include(":app")
+include(":app")
  

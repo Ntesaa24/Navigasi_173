@@ -8,6 +8,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.example.prak6.view.FormIsian
+import com.example.prak6.view.TampilData
 
 enum class Navigasi {
     Foumulirku,
