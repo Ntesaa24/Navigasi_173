@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PRAKPAM_userinput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PRKPAM2_173" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QuestAdvanceLayout_1732" vcs="Git" />
   </component>
 </project>
